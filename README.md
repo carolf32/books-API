@@ -1,6 +1,8 @@
 # 📚 Book's API
 
-API to manage a book collection using Typescript. Methodology TDD (Test Driven Development). 
+API to manage a book collection using Typescript, Express and Prisma ORM, Helmet for extra safety and Zod for verification and serialization. 
+
+Methodology TDD (Test Driven Development). 
 Each book contains:
 |key|type|
 |---|----|
